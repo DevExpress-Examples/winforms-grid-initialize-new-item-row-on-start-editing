@@ -6,7 +6,7 @@
 
 # WinForms Data Grid - Initialize a new row after the user activates the grid cell
 
-This example handle the [InitNewRow](https://docs.devexpress.com/WindowsForms/DevExpress.XtraGrid.Views.Base.ColumnView.InitNewRow) event to initialize the New Item Row with default values. The GridView raises the `InitNewRow` event after the user has changed the value of a cell. The example also handles the [GridView.ShownEditor](https://docs.devexpress.com/WindowsForms/DevExpress.XtraGrid.Views.Base.ColumnView.ShownEditor) event to force the `InitNewRow` event to fire after the user has clicked the "Item New Row" cell:
+This example handles the [InitNewRow](https://docs.devexpress.com/WindowsForms/DevExpress.XtraGrid.Views.Base.ColumnView.InitNewRow) event to initialize the New Item Row with default values. The GridView raises the `InitNewRow` event after the user has changed the value of a cell. The example also handles the [GridView.ShownEditor](https://docs.devexpress.com/WindowsForms/DevExpress.XtraGrid.Views.Base.ColumnView.ShownEditor) event to force the `InitNewRow` event to fire after the user has clicked the "Item New Row" cell:
 
 ```csharp
 private void gridView1_InitNewRow(object sender, DevExpress.XtraGrid.Views.Grid.InitNewRowEventArgs e) {
