@@ -32,7 +32,7 @@ private void gridView1_ShownEditor(object sender, EventArgs e) {
 
 * [Add and Remove Rows](https://docs.devexpress.com/WindowsForms/752/controls-and-libraries/data-grid/data-editing-and-validation/add-and-remove-rows)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-grid-initialize-new-item-row-on-start-editing&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-grid-initialize-new-item-row-on-start-editing&~~~was_helpful=no)
 
